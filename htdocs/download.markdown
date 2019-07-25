@@ -1,8 +1,23 @@
 Download
 ========
 
-stable versions
+development versions
+--------------------
+
+### tntnet
+ * [the source of tntnet 3.0rc3](download/tntnet-3.0rc3.tar.gz)
+
+### cxxtools
+ * [the source of cxxtools 3.0rc3](download/cxxtools-3.0rc3.tar.gz)
+
+### tntdb
+ * [the source of tntdb 1.4rc3](download/tntdb-1.4rc3.tar.gz)
+
+old stable versions
 ---------------
+
+Actually don't use them. They are very old and outdated.
+Use the above development versions or the latest github versions.
 
 ### tntnet
  * [the source of tntnet 2.2.1](download/tntnet-2.2.1.tar.gz)
@@ -16,10 +31,6 @@ stable versions
  * [the source of tntdb 1.3](download/tntdb-1.3.tar.gz)
  * [release notes](releasenotes-tntdb-1-3.html)
 
-development versions
---------------------
-
-no development versions currently available
 
 other downloads
 ---------------
